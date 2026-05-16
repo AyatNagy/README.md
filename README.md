@@ -36,7 +36,4 @@ _ Backend Developer — Node.js
   - JWT Auth, Progress Tracking, Assessment System
   - MySQL database with Prisma ORM
 
----
 
-## 📊 GitHub Stats
-![Ayat's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyatNagy&show_icons=true&theme=tokyonight)
