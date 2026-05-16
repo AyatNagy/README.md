@@ -30,7 +30,7 @@ _ Backend Developer — Node.js
 
 ---
 
-## 🚀 Projects
+##  Projects
 - **Kido** — Educational app for kids
   - Flutter frontend + Node.js backend
   - JWT Auth, Progress Tracking, Assessment System
