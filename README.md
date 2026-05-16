@@ -1,6 +1,7 @@
 # Hi, I'm Ayat 
 
 I'm a Software Engineer who enjoys building things from scratch — from designing the database schema to connecting it with a clean API and a smooth UI. I care a lot about logic, structure, and making things actually work correctly.
+
 ---
 🎓 Computer Science Student  
 _ Flutter Developer  
