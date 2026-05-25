@@ -17,9 +17,6 @@ _ Backend Developer — Node.js
 ### Problem Solving
 - C++ (Logic & Algorithms)
 - Strong focus on clean architecture & data modeling
-### Tools
-- Git & GitHub
-- Postman
 ---
 ##  Projects
 - **Kido** — Educational app for kids
